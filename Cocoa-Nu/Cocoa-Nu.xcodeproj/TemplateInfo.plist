@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>This project builds a Cocoa application using a mix of Objective-C and Nu.</string>
+	<key>FilesToMacroExpand</key>
+	<array>
+		<string>build/Cocoa-Nu.build/Cocoa-Nu.pbxindex/strings.pbxstrings/strings</string>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/Objects-normal/i386/main.o</string>
+		<string>build/Debug/Cocoa-Nu.app/Contents/Info.plist</string>
+		<string>build/Game.build/Debug/Game.build/Game.dep</string>
+		<string>build/Game.build/Game.pbxindex/strings.pbxstrings/strings</string>
+		<string>Cocoa-Nu.xcodeproj/ghansard.mode1v3</string>
+		<string>Cocoa-Nu.xcodeproj/ghansard.pbxuser</string>
+		<string>Cocoa-Nu.xcodeproj/project.pbxproj</string>
+		<string>TemplateInfo.plist</string>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/«PROJECTNAMEASIDENTIFIER».dep</string>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/«PROJECTNAMEASIDENTIFIER».hmap</string>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/Objects-normal/i386/«PROJECTNAMEASIDENTIFIER».LinkFileList</string>
+		<string>build/Debug/Cocoa-Nu.app/Contents/MacOS/«PROJECTNAMEASIDENTIFIER»</string>
+	</array>
+	<key>FilesToRename</key>
+	<dict>
+		<key>Cocoa-Nu.xcodeproj</key>
+		<string>«PROJECTNAMEASIDENTIFIER».xcodeproj</string>
+		<key>Cocoa-Nu_Prefix.pch</key>
+		<string>«PROJECTNAMEASIDENTIFIER»_Prefix.pch</string>
+		<key>build/Cocoa-Nu.build</key>
+		<string>build/«PROJECTNAMEASIDENTIFIER».build</string>
+		<key>build/Cocoa-Nu.build/Cocoa-Nu.pbxindex</key>
+		<string>build/Cocoa-Nu.build/«PROJECTNAMEASIDENTIFIER».pbxindex</string>
+		<key>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build</key>
+		<string>build/Cocoa-Nu.build/Debug/«PROJECTNAMEASIDENTIFIER».build</string>
+		<key>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/Cocoa-Nu-all-target-headers.hmap</key>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/«PROJECTNAMEASIDENTIFIER»-all-target-headers.hmap</string>
+		<key>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/Cocoa-Nu-generated-files.hmap</key>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/«PROJECTNAMEASIDENTIFIER»-generated-files.hmap</string>
+		<key>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/Cocoa-Nu-own-target-headers.hmap</key>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/«PROJECTNAMEASIDENTIFIER»-own-target-headers.hmap</string>
+		<key>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/Cocoa-Nu-project-headers.hmap</key>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/«PROJECTNAMEASIDENTIFIER»-project-headers.hmap</string>
+		<key>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/Cocoa-Nu.dep</key>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/«PROJECTNAMEASIDENTIFIER».dep</string>
+		<key>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/Cocoa-Nu.hmap</key>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/«PROJECTNAMEASIDENTIFIER».hmap</string>
+		<key>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/Objects-normal/i386/Cocoa-Nu.LinkFileList</key>
+		<string>build/Cocoa-Nu.build/Debug/Cocoa-Nu.build/Objects-normal/i386/«PROJECTNAMEASIDENTIFIER».LinkFileList</string>
+		<key>build/Debug/Cocoa-Nu.app</key>
+		<string>build/Debug/«PROJECTNAMEASIDENTIFIER».app</string>
+		<key>build/Debug/Cocoa-Nu.app/Contents/MacOS/Cocoa-Nu</key>
+		<string>build/Debug/Cocoa-Nu.app/Contents/MacOS/«PROJECTNAMEASIDENTIFIER»</string>
+	</dict>
+</dict>
+</plist>
