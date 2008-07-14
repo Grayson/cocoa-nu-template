@@ -29,7 +29,10 @@ More information can be found [on my website](http://www.fromconcentratesoftware
 
 # Installing Cocoa-Nu
 
-Drag the Cocoa-Nu folder to ~/Library/Application Support/Developer/Shared/Xcode/Project Templates/.
+Copy the Cocoa-Nu folder to ~/Library/Application Support/Developer/Shared/Xcode/Project Templates/Application.
+
+	mkdir -p ~/Library/Application\ Support/Developer/Shared/Xcode/Project\ Templates/Application
+	cp -R Cocoa-Nu ~/Library/Application\ Support/Developer/Shared/Xcode/Project\ Templates/Application
 
 # Contact info
 
