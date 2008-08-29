@@ -29,6 +29,8 @@ More information can be found [on my website](http://www.fromconcentratesoftware
 
 # Installing Cocoa-Nu
 
+Run Installer.app.  Installer.app is an applescript application that more or less runs the manual installation instructions below.  If Installer.app doesn't work, try the following:
+
 Copy the Cocoa-Nu folder to ~/Library/Application Support/Developer/Shared/Xcode/Project Templates/Application.
 
 	mkdir -p ~/Library/Application\ Support/Developer/Shared/Xcode/Project\ Templates/Application
