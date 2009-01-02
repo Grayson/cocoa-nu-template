@@ -35,7 +35,7 @@
 		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
 		1D0C3E8F0DE7A69D0080226A /* Nu.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Nu.framework; path = /Library/Frameworks/Nu.framework; sourceTree = "<absolute>"; };
-		1D54DFBA0E0FE99900D7B773 /* nu */ = {isa = PBXFileReference; lastKnownFileType = folder; name = nu; path = "/Users/ghansard/Library/Application Support/Developer/Shared/Xcode/Project Templates/Cocoa-Nu/nu"; sourceTree = "<absolute>"; };
+		1D54DFBA0E0FE99900D7B773 /* nu */ = {isa = PBXFileReference; lastKnownFileType = folder; name = nu; path = "../../../Library/Application Support/Developer/Shared/Xcode/Project Templates/Cocoa-Nu/nu"; sourceTree = SOURCE_ROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29B97319FDCFA39411CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
